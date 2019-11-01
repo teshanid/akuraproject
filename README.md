@@ -1,7 +1,15 @@
 # Akura Student Management System
 
-<b>How to install and run the software</b>
+### Tuiton Class Student management system. 
 
+##Technologies
+Java EE, Spring boot, MySQL 5.7 
+
+##How to install and run the software
+
+Clone the repository master branch to the server directory
+
+$ git clone https://github.com/teshanid/akuraproject.git
 1.	Add backup.sql file to MySQL Workbench
 2.	Open InteliJ
 3.	Open Browse to the project folder wait until gradel build operation is finished.
